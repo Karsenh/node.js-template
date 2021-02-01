@@ -1,3 +1,7 @@
 # Setup Instructions
 ----
-## Run `npm i` to install starter-package dependancies from NPM
+## Run *`npm i`* to install starter-package dependancies from NPM, including:
+* Express
+* Body-Parser
+* EJS
+* Mongoose
